@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We use Docker, Kubernetes, Next.js, React.js, TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL,Prisma, Redis, Rust, Actix Web, Axum and various other technologies as per the requirements of the project.
+We use Docker, Kubernetes, Rust, Nextjs, React, TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL, MongoDB, Prisma, Redis, Rust, Actix Web, Axum and various other technologies as per the requirements of the project.
 
 ## Connect with Us
 
